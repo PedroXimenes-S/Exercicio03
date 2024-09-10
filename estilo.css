@@ -1,0 +1,14 @@
+body {
+    background-image: url('imagem/FUNDO.jpg'); 
+    background-size: cover;      
+    background-position: center; 
+    background-repeat: no-repeat; 
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.conteudo {
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
